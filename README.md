@@ -5,6 +5,7 @@ This is a random user generator React app bootstrapped with [`create-next-app`](
 First, run the development server:
 
 ```bash
+npm
 npm run dev
 ```
 
