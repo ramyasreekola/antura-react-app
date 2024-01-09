@@ -1,4 +1,4 @@
-This is a random user generator React app bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It uses a composite pattern of both server side and client side rendering of the API data.
+This is a random user generator React app bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It uses Next js for a composite pattern of both server side and client side rendering of the API data.
 
 ## Getting Started
 
